@@ -2,3 +2,9 @@
 .DS_Store
 api.php
 covid-municipios.php
+.idea/vcs.xml
+.idea/sqldialects.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/dataSources.xml
+.idea/COVID19-BC.iml
