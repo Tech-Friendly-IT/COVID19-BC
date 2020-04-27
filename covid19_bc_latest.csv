@@ -149,9 +149,9 @@ id,estado,estado-slug,municipio,municipio-slug,poblacion,latitud,longitud,fecha,
 148,"Baja California",BC,Ensenada,ENS,486639,31.8423,-116.61,2020-04-25,191,15,27,5,18,4,2,0
 149,"Baja California",BC,Tecate,TEC,102406,32.5619,-116.623,2020-04-25,35,39,49,5,3,5,2,0
 150,"Baja California",BC,"San Quintin",SQ,4777,30.5711,-115.941,2020-04-25,15,0,4,1,0,0,0,0
-151,"Baja California",BC,Mexicali,MXL,988417,32.6138,-115.45,2020-04-26,535,179,471,40,0,-8,51,0
-152,"Baja California",BC,Tijuana,TJ,1641570,32.4968,-116.948,2020-04-26,521,257,737,120,0,43,37,3
+151,"Baja California",BC,Mexicali,MXL,988417,32.6138,-115.45,2020-04-26,562,179,471,40,27,-8,51,0
+152,"Baja California",BC,Tijuana,TJ,1641570,32.4968,-116.948,2020-04-26,536,257,737,120,15,43,37,3
 153,"Baja California",BC,Rosarito,ROS,96734,32.3595,-117.057,2020-04-26,23,4,15,3,0,-7,0,0
-154,"Baja California",BC,Ensenada,ENS,486639,31.8423,-116.61,2020-04-26,191,23,30,5,0,8,3,0
+154,"Baja California",BC,Ensenada,ENS,486639,31.8423,-116.61,2020-04-26,202,23,30,5,11,8,3,0
 155,"Baja California",BC,Tecate,TEC,102406,32.5619,-116.623,2020-04-26,35,37,51,5,0,-2,2,0
 156,"Baja California",BC,"San Quintin",SQ,4777,30.5711,-115.941,2020-04-26,15,0,4,1,0,0,0,0
