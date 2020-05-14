@@ -17,7 +17,13 @@ Esta información es procesada y puesta en formato .CSV y .JSON para ser utiliza
 
 Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, estos contienen la información más reciente.
 
-## Estructura
+### Estructura de carpetas
+--- Carpeta raíz
+----> datos
+----> graficas
+
+
+## Estructura de datos
 - id
 - estado
 - estado-slug
