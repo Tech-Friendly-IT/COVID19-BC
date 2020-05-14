@@ -18,13 +18,15 @@ Esta información es procesada y puesta en formato .CSV y .JSON para ser utiliza
 Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, estos contienen la información más reciente.
 
 ## Estructura
-- ID
-- Estado
-- Estado-slug
-- Municipio
-- Municipio-slug
-- Población
-- Fecha
+- id
+- estado
+- estado-slug
+- municipio
+- municipio-slug
+- poblacion
+- latitud
+- longitud
+- fecha (YYYY-MM-DD)
 - c-negativos (casos negativos)
 - c-sospechosos (casos sospechosos)
 - c-confirmados (casos confirmados)
@@ -35,4 +37,6 @@ Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, esto
 - d-confirmados (diferencia 24hrs confirmados)
 - d-defunciones (diferencia 24hrs defunciones)
 - d-recuperados (diferencia 24hrs recuperados)
+- sospechosos-tasa-100k (tasa de casos x 100k habitantes)
+- confirmados-tasa-100k (tasa de casos x 100k habitantes)
 - activos (casos activos menos casos recuperados menos defunciones)
