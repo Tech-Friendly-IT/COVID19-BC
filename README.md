@@ -18,10 +18,16 @@ Esta información es procesada y puesta en formato .CSV y .JSON para ser utiliza
 Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, estos contienen la información más reciente.
 
 ### Estructura de carpetas
---- Carpeta raíz
-----> datos
-----> graficas
+- Carpeta raíz
+  - datos (datos CSV y JSON)
+  - graficas (gráficas)
 
+### Graficas
+- Activos
+- Agregados
+- Incremental
+- Municipios
+- Sumarizados
 
 ## Estructura de datos
 - id
