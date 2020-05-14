@@ -22,12 +22,12 @@ Puedes hacer uso de **covid19-bc-latest.csv** y **covid19-bc-latest.json**, esto
   - datos (datos CSV y JSON)
   - graficas (gráficas)
 
-### Graficas
-- Activos
-- Agregados
-- Incremental
-- Municipios
-- Sumarizados
+### Gráficas
+- Activos (casos acumulados meno casos recuperados y defunciones)
+- Agregados (casos agregados en 24 hrs por municipio 7 dias)
+- Incremental (casos acumulados por municipio 7 dias)
+- Municipios (casos acumulados por municipio)
+- Sumarizados (casos acumulados por estado)
 
 ## Estructura de datos
 - id
